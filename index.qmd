@@ -1,0 +1,17 @@
+---
+title: "stream space"
+toc: false
+jupyter: python3
+about: 
+    id: hero-Heading
+    template: jolla
+    image: nongdamgom.jpg
+    links:
+        - icon: github
+          text: Github
+          href: https://github.com/ohseyn/stream-space
+---
+
+## 안녕하세요!
+
+데이터 분석을 공부하는 오서연입니다.
